@@ -14,7 +14,7 @@ These signals were used to estimate variables of the feature vector for each pat
 'xyz' is used to denote 3-axial signals in the x, y and z directions.
 
 subject 
-	volunteer number 1-30
+volunteer number 1-30
                  
 activity                
 	6 activities of the volunteers: laying, sitting, standing, walking, walkingdownstairs, walkingupstairs
